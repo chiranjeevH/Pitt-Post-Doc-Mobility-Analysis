@@ -1,6 +1,6 @@
 # Pitt-Post-Doc-Mobility-Analysis
 
-# Researchers Success Impact Analysis based on Different Metrics
+# Researchers Success Impact Analysis based on Different Post-Doc Metrics
 
 Brief description of your project.
 
