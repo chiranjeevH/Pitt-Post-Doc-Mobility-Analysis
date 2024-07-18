@@ -205,7 +205,7 @@ Permission to use, copy, modify, and distribute this software and its documentat
 For permission requests, please contact:
 
 University of Pittsburgh - Office of Academic Career Development, Health Sciences  
-Email: [your_contact_email@pitt.edu]
+
 
 See the [LICENSE](LICENSE) file for details.
 
