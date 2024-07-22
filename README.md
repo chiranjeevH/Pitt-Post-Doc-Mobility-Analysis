@@ -15,18 +15,9 @@ Brief description of your project.
 
 ## 1. Missing Data Analysis - Descriptive Analysis to Summarize the Data
 
-- **Code Title:** `Descriptive_Statistics_for_Continuous_Variables.py` for Table 1
+- **Code Title:** `DS_On_Whole_Data.py` for Complete Dataset
 - **Functionality:**
   - Perform a descriptive analysis of continuous variables.
-  - Calculate missing data percentages.
-  - Explore missing data patterns across variables.
-  - Visualize missing data.
-
-- **Libraries Used:** pandas, scipy
-
-- **Code Title:** `Descriptive_Statistics_for_Categorical_Variables.py` for Table 1
-- **Functionality:**
-  - Perform a descriptive analysis of categorical variables.
   - Calculate missing data percentages.
   - Explore missing data patterns across variables.
   - Visualize missing data.
@@ -35,7 +26,7 @@ Brief description of your project.
 
 ## 2. Frequency Analysis
 
-- **Code Title:** `Descriptive_Statistics_for_Categorical_Variables.py` for Table 1
+- **Code Title:** `Freq_Analysis_On_Whole_Data.py` for Complete Dataset
 - **Functionality:**
   - Generate frequency tables for categorical variables.
   - Include percentages and cumulative frequencies.
