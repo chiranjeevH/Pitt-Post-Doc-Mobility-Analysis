@@ -126,7 +126,7 @@ Data Preprocessing and Linear Regression Models:
 Files: `Linear_Regression_Model_CIM.py`, `Logistic_Regression_Model_CIM.py`, `Linear_Regression_Model.py`, `Logistic_Regression.py`
 
 - **Description:**
-  - Handles missing data through imputation strategies.
+  - Along with regression functionality, these codes also handle missing data through imputation strategies.
   - Applies label encoding to categorical variables.
   - Executes linear regression and logistic regression models with various covariates.
 
