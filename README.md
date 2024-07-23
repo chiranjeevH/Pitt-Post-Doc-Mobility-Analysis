@@ -72,7 +72,7 @@ Brief description of your project.
 
 ## 5. Imputation Strategies
 
-- **Code Title:** `Linear_Regression_Model.py` for PITT_EXIT
+- Codes in all regression files include similar inputation stratagy used i.e. Simple Inputation.
 - **Functionality:**
   - Implement imputation strategies for missing values.
   - Use column means for simple imputation.
@@ -98,7 +98,7 @@ Brief description of your project.
 
 ## 8. Functionality:
 
-Descriptive Analysis Code:
+Descriptive Analysis Code for Table 1:
 File: `Descriptive_Statistics_for_Continuous_Variables.py`
 
 - **Description:**
@@ -110,7 +110,7 @@ File: `Descriptive_Statistics_for_Continuous_Variables.py`
   - Run the script to obtain descriptive statistics.
   - Review the generated summary report in 'Result_Data_Summary.xlsx'.
 
-Frequency Analysis Code:
+Frequency Analysis Code for Table 1:
 File: `Descriptive_Statistics_for_Categorical_Variables.py`
 
 - **Description:**
