@@ -2,7 +2,6 @@
 
 # Researchers Success Impact Analysis based on Different Post-Doc Metrics
 
-Brief description of your project.
 
 ## Table of Contents
 1. [Missing Data Analysis](#1-missing-data-analysis)
